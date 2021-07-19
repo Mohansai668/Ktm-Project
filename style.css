@@ -1,0 +1,68 @@
+
+import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+	font-family: 'Ubuntu', sans-serif;
+}
+.nav-head{
+	padding-top:50px;
+}
+.navbar-lv {
+  width: 100px;
+  height:50vh;
+  background: url(ktm.jpg);
+  background-position:top;
+  background-size: cover;
+}
+.img-fluid{
+	padding: 50px;
+}
+.navbar-brand{
+  font-size: 25px;
+  font-weight: bold;
+}
+span{
+  color:#FF7600;
+}
+
+.nav-link{
+   margin: 10px;
+}
+
+.banner{
+  width: 100px;
+  height:50vh;
+  background: url(ktm.jpg);
+  background-position:top;
+  background-size: cover;
+}
+.data{
+  color: lightpink;
+  text-align: center;
+  position: relative;
+  font-family: cursive;
+  top:300px;
+}
+.feactures-lv {
+  margin: 40px;
+	padding-top: 80px;
+
+}
+.text{
+  text-align: center;
+  font-family: cursive;
+	padding-bottom: 50px 50px;
+	color: red;
+
+}
+.caursal{
+  margin: 20px;
+  width: auto;
+  height: auto;
+  background-position: center;
+  background-size: cover;
+}
